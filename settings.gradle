@@ -1,2 +1,3 @@
+include ':myhometr'
 include ':app'
 rootProject.name = "MyHomeTr"
